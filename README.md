@@ -1,4 +1,4 @@
-# Assingment #4 : Data analysis with Pandas (10 points)
+# Exercise #5: Data analysis with Pandas (10 points)
 
 In this exercise, we will be doing data analysis using the [Pandas - Python Data Analysis Library](http://pandas.pydata.org/). So far, we have only used example data stored in list variables, and this week we will be loading data files and interacting with actual data sets. 
 
