@@ -1,4 +1,4 @@
-# Exercise 5: Data analysis with Pandas (10 points)
+# Assingment #4 : Data analysis with Pandas (10 points)
 
 In this exercise, we will be doing data analysis using the [Pandas - Python Data Analysis Library](http://pandas.pydata.org/). So far, we have only used example data stored in list variables, and this week we will be loading data files and interacting with actual data sets. 
 
@@ -6,13 +6,10 @@ In this exercise you are asked to analyze temperature data from Kumpula, Helsink
 
 After making your changes to the notebook, you will need to upload it to GitHub.
 
-- **Exercise 5 is due by the start of the next lesson (9:15 am, 7 October 2020)**.
-- Don't forget to check out the [hints for this week's exercise](https://geo-python-site.readthedocs.io/en/latest/lessons/L5/exercise-5.html#exercise-5-hints) if you're having trouble.
-- Scores on this exercise are out of **10 points (Problems 1-3)**. Problem 4 is optional.
 
 ## Before you start
 
-### Clone the Exercise 5 repository
+### Clone the Assignment #4 repository
 
 - Make sure you cloned your own repository (repository name contains your GitHub username). 
 - After solving the problems, remember to commit your changes and push them to GitHub. 
